@@ -9,5 +9,5 @@ Project from section four of the [Angular - The Complete Guide](https://www.udem
 <li>To run - just like any angular project - run <code>npm start</code> in the root directory of this project.</li>
 </ul>
 
-<u>**User Interface</u>:**<br>
+<u>**Screenshot</u>:**<br>
 ![screenshot of app](image.png)
